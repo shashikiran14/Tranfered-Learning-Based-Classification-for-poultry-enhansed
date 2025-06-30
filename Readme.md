@@ -1,7 +1,11 @@
 🐣 Poultry Disease Identifier
+
+
 A deep learning–based web application that identifies common poultry diseases such as Coccidiosis, Salmonella, Newcastle Disease, or Healthy from chicken feces images using a custom-trained MobileNetV2 model. The application is built using Streamlit and TensorFlow.
 
 🚀 Features
+
+
 🧠 Predicts poultry disease from uploaded fecal images
 ✅ Detects: Coccidiosis, Salmonella, Newcastle, Healthy
 🎨 Beautiful dark-themed UI
@@ -9,8 +13,9 @@ A deep learning–based web application that identifies common poultry diseases 
 🐍 Built with TensorFlow, Streamlit, PIL, and NumPy
 🛠️ Tech Stack
 Frontend/UI: Streamlit (custom HTML/CSS for styling)
-Model: MobileNetV2 .h5 file (pretrained Keras model)
+Model: MobileNetV2 .h5 //github.com/your-username/poultry-diseases-identifier.gitfile (pretrained Keras model)
 Backend: TensorFlow, Pillow, NumPy
+
 📂 Project Structure
 
 poultry-diseases-identifier/
